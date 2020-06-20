@@ -1,0 +1,15 @@
+{
+  "name": "nodeapp",
+  "version": "1.0.0",
+  "description": "nodeapp",
+  "main": "app.js",
+  "dependencies": {
+    "express": "*"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "author": "daly fadhloun",
+  "license": "ISC"
+}
